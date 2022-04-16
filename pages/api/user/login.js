@@ -30,7 +30,7 @@ const handler = async (req, res) => {
         }
       }
     } catch (err) {
-      res.status(500).json("co loi xay ra");
+      res.status(500).json("co loi xay raa");
     }
   }
 };
